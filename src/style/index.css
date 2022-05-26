@@ -1,0 +1,24 @@
+.btn{
+  @apply rounded px-2 py-1 flex items-center justify-center text-size-14px font-500;
+}
+.btn-primary{
+  @apply btn border-blue-500 bg-blue-500 !text-white
+}
+.btn-danger{
+  @apply btn border-red-500 bg-red-500 !text-white
+}
+.btn-secondary{
+  @apply btn border-light-500 bg-light-500 !text-current
+}
+.btn-success{
+  @apply btn border-green-500 bg-green-500 !text-white
+}
+.btn-outline-primary{
+  @apply btn border-blue-500 border-width-1px text-blue-500
+}
+.btn-outline-secondary{
+  @apply btn border-gray-400 border-width-1px text-gray-600
+}
+.btn-outline-success{
+  @apply btn border-green-400 border-width-1px text-green-500
+}
