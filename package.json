@@ -9,7 +9,7 @@
     "tauri": "tauri"
   },
   "dependencies": {
-    "@tauri-apps/api": "^1.0.0-rc.6",
+    "@tauri-apps/api": "^1.0.0",
     "@vicons/material": "^0.12.0",
     "@vicons/utils": "^0.1.4",
     "ts-debounce": "^4.0.0",
@@ -19,7 +19,7 @@
     "windicss": "^3.5.4"
   },
   "devDependencies": {
-    "@tauri-apps/cli": "^1.0.0-rc.12",
+    "@tauri-apps/cli": "^1.0.0-rc.16",
     "@vitejs/plugin-vue": "^2.3.3",
     "@windicss/plugin-scrollbar": "^1.2.3",
     "typescript": "^4.5.4",
